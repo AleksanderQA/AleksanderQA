@@ -1,16 +1,11 @@
 ### Hi there, my name is Aleksander 👋
 
-<!--
-**AleksanderQA/AleksanderQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently learning java language to start on QA Automation possition.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - 🔭 I’m currently learning java language to start on QA Automation possition.
+### - 👯 I like write a code
+### - 🤔 I’m looking for internship to learn more and polish automation skills
+### - 💬 At current time i'm using JUnit and Maven to write unit tests and run it using github pipeline
+### - 📫 You can find me on:
+
+
