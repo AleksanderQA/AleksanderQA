@@ -41,4 +41,4 @@
 
 
 
-[Linkedin]: https://www.linkedin.com/in/alexander-medvedev-a39715288/
+[Linkedin]: https://www.linkedin.com/in/aleksander-medvedev-a39715288/
