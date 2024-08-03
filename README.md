@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Page</title>
-</head>
-<body>
-    <h1>Welcome to My GitHub Page</h1>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=**AleksanderQA**" alt="visitor badge"/>
-
-</body>
-</html>
-
-
 # Hi there, my name is Aleksander 👋
 
 
